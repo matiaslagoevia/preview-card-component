@@ -39,7 +39,7 @@ footer {
   align-self: start;
 }
 
-.card h1 {
+.card h2 {
   color: hsl(0, 0%, 95%);
   margin: 1em 0;
   font-family: "Big Shoulders Display", sans-serif;
