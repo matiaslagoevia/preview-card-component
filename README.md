@@ -32,7 +32,7 @@ Users should be able to:
 
 - Solution URL: [3 column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub?share=true)
 
-- Live Site URL: [card-preview-component.matiaslagoevia.com](https://card-preview-component.matiaslagoevia.com/)
+- Live Site URL: [card-preview-component.matiaslagoevia.me](https://card-preview-component.matiaslagoevia.me/)
 
 ## My process
 
@@ -64,5 +64,5 @@ I'm happy I'm continue to explore flexbox and it's usage, and look forward to do
 
 ## Author
 
-- Website - [Matias Lago Evia](https://matiaslagoevia.com)
+- Website - [Matias Lago Evia](https://matiaslagoevia.me)
 - Frontend Mentor - [@matiaslagoevia](https://www.frontendmentor.io/profile/matiaslagoevia)
